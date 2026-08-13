@@ -1,18 +1,18 @@
 
 # Variables in Python
 
-first_name = 'PRAKASH'
-last_name = 'SENAPATI'
-country = 'HYD'
-city = 'TELENGANA'
-age = 40087
-is_married = True
-skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
+first_name = 'Adarsh'
+last_name = 'Gawande'
+country = 'Amravati'
+city = 'Maharashtra'
+age = 444606
+is_married = false
+skills = ['Python']
 person_info = {
-    'firstname':'Asabeneh', 
-    'lastname':'Yetayeh', 
-    'country':'Finland',
-    'city':'Helsinki'
+    'firstname':'xyz', 
+    'lastname':'xyz', 
+    'country':'ind',
+    'city':'mumbai'
     }
 
 # Printing the values stored in the variables
