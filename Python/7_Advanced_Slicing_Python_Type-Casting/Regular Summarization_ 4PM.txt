@@ -1,0 +1,1002 @@
+****************
+FULL STACK DATASCIENCE & ADVANCED GENERATIVE AI & AGENTIC AI @ 29th June 
+Webinar Link:  Join: https://zoom.us/j/89504654236
+****************
+Online team if you have any question I will answer after the session 
+
+6months 
+4pm-5:30pm ist 
+offline & online 
+if any student or fresher attending online mode
+visit attend offline model 
+
+experience learner please attend the session online 
+	6monht of time you  
+
+I will guide you from 0 level to expert level 
+everyday you have revise the previous topic ,, laptop 
+nareshit lot of placement  -- generative ai & agentic ai 
+
+fresher -- 5l 
+exper -- based on previous salary 
+
+full stack 
+	backend -- script, code 
+	frontend -- insta -- app -- ui user name & pwd 
+	your account loging
+	
+full stack java 
+full stack software
+full stack datascietise 
+full stack generative ai & agentic ai 
+
+1- name of the course 
+		full stack ds with gen ai & agentic ai 		
+2- my introduction 
+3- who can learn this course 
+4- da vs ba vs ds vs gen ai vs agentic ai 
+
+== Vani -- 7997993923 
+
+Technical question -- ask to me 
+langchain , langgrpah, langsmith 
+	gen ai framework -- typescitp 
+	
+.net platform 
+
+-- learn slowe 
+-- apply job 
+-- compnay 
+
+course fee -- 27000 inr without recording
+wirh recording 32000 inr 
+
+4pm ist | 5:30 pm 
+1:30 hr -- 3hr ( 4hr) 
+Naive bayes algorithm -- bayesian theorem
+
+=== 29th 
+
+Brand new batch 
+--- 1- full stack datascience with generative ai & agentic ai
+--- demo session few things  i will repet 
+
+1- Who we are
+2- roadmap of the course 
+3- capstone project 
+4- scan official qr code 
+===
+1- NARESH IT 
+		23 yr 
+		2003 
+		2010
+		2020
+		2026
+	
+2- recenlty we have launched new portfolio for studenet 
+	
+1- About nareshit 
+2- Coderide -- daily work, daily assingment, code practice , interview preparastion
+3- devride -- do the project 
+4- placement-- what ever organization come to nareshit for placement 
+5- how student know or learner knows when placement 
+			insta, youtube , official apps to find any kin
+6- i shared 2 course content ( did you download) 
+			1st course -- fsds with genai & agentic ai ( 55)
+			2nd course -- advanced genai & agenti (33) -- few concept added which introduce to the world recently
+			 total -- 88 ( 2part) 
+			 
+7- who am I ? introduce my self yesterday 
+
+8- to join fsds with genai & agentic ai what we need ?
+			consistency ,, spend time on learning
+			attend interview 
+
+9- once scan qr code admin vani mem share the content & notes 
+
+10- llm hallucination ( 
+
+	short term memory -- stored recent information 
+	long term memory -- storee old information
+	
+	interview question ( gen ai) 
+			if llm model hallucinate being geni ai developer how do you handle it ? \
+			answer -- give wright promt 
+	
+11- fastapi -- act like backend server 
+		 
+12- generative ai vs agentic ai 
+				generative ai -- ai generate text, code, image 
+				user or developer -- copy the code and paste in vs code 
+				application will get ready 
+				
+	Agentic ai -- agents generate code, write code, get application automatically 
+		
+	
+13- 	4:15pm -- 5:30 ist ( 15 q &a) 
+		without recording -- 27k inr 
+		with recording -- 32k inr 
+		2nd sat 7 4th sat -- holiday 
+		sat -- test 
+		
+===== 31st
+
+machine leanring 
+ai 
+gen ai
+agentic ai 
+data analysis 
+python 
+
+
+1- knowledge graph 
+		foundation -- python, sql, math, stat, np, pd, plt, sns etc 
+		eda -
+		machine learning 
+		Ai -- NLP, DL, NN, COMPUTER VISION 
+		GEN AI 
+		AGENTIC AI 
+		QUANTUM AI 
+		
+2- About google classroom -- mentor & learner 
+	mentor will post regular task, project, notes ,document 
+	learn will donwload if any error you can post error immediately 
+		everyday after the class i will share notes, code, task , practice, project 
+	after enrolled you will get this access 
+	
+3- mentors 
+		we hire quality mentor to help learnse 
+			online mentors -- timing 9am - 6pm 
+			offline mentor -- lab at 3rd floor -- 9am -6pm  
+	
+4- 
+	offline mode
+	online mode
+	hybrid mode 
+	
+	if you are non technical learner student please attend the session through offline mode
+
+5- everyday you can talk if you have any query 
+
+6- online team -- when ever my admin calls you please respod humble requrest 
+								if you like trust me, hunger for job, salary growth, learning, then only come 
+								
+7- shared 2 course content -
+
+8- live project  == capstoe project 
+	domain which is alwasy live 
+		banking -- live 
+		fiance 
+		service 
+		healthcare 
+		insurance
+		 
+BFSI domain -- BANKING, FINANCE, SERVICE, INSURANCE
+
+
+
+TASK 
+POC -- research project 
+PROJECT 
+RESUME PROJECT -- resume project 
+
+		
+
+1- about nareshit company 
+2- about my self 
+3- who can join this program 
+4- prerequist required
+5- laptop configuaration 
+6- about google classroom 
+7- about mentor 
+8- about software need to install 
+9- about course fee, 
+10- about salary 
+11- about project 
+12- class timin & mentor 
+13- designation of the job 
+14- course content 
+15- q & a 
+
+
+=== WE WILL START PYTHON FROM MONDAY ONWARDS 
+=== FROM MONDAY IF ANY NEW STAUDENT JON IN DEMO LAST 10 MIN I AM SPENDING 
+=== I will share soma installation video to vani mem  please she will posted in whatsapp group 
+
+=== sunday advanced workshop 
+
+number -- 1, 2, 3, | integer 		
+programming language number are called as integer short form of int 
+program lage -- text -- string short form is called str 
+progream -- decimal -- float 
+
+=== 3rd 
+
+Any placement we bring i will annonce in the google classroom 
+learner must have to get the access of google classroom 
+we have discussed demo session -- i will share just 2-3 days recording and we will continue today python 
+last 10min - i wll take the backup classes so that you are not miss any topic 
+
+=====
+java
+c
+c++
+sql
+.net 
+python 
+etc 
+
+4pm new batch -- how many dont know python 
+beginner level -- 
+expert level -- 
+
+fresher in theis 
+experience -- non tech 
+architecture 
+ceo 
+founder 
+
+--- drive this batch from zero level to advance level 
+
+i will connect every concept to other 
+1st grade -- 2nd grade - 3rd 
+
+without python -- heart of gen ai & agentic ai, ml model 
+
+=== did you install anysoftware 
+	i have shared one link to you 
+	
+=== what is ide
+
+vs code 
+pycharm 
+
+vs code -->
+	if you already install vs code then fine
+	I will explain some extension which need to be add on in vs code 
+	
+if you are not follow me -- today code works but tomorrow code will fail 
+	
+1- GOOGLE -- VS CODE -- DOWNLOAD & INSTALL 
+2- open -- visual studio code 
+3- system cmd- check the path location 
+4- vs code -- terminal -- check the path location 
+5- make sure both path location must should match 
+6- manuall i will go to this location cmd & vs code terminal location (c:\user\admin) 
+7- I created new folder c:user\admin\newfolder(avscode) 
+8- open vs code -- connect to vs code -- open folder 
+9- extension -- please install these extension 
+			Jupyter notebook 
+			Office viewer 
+			python 
+			python environment 
+			
+document -- .doc 
+pdf -- .pdf
+excel -- .xlsx 
+python -- .py 
+python notebook --.ipynb (interactive python notebook) 		
+			
+python _ means it store previous output 
+		
+1- using python we work on number 
+	whenevery you see the extn .ipynb -- that means it is notebook python file 
+	
+2-- we have test the code 
+			test.ipynb 
+			test.py 
+
+3- still you dont know how to work 
+		mentor -- they will help you but first i want you to try them by your own 
+		
+1- vs code installation & code testing we are completed 
+
+
+
+
+
+TASK:1 -- VS CODE INSTALLATION & CODE TESTING .IPYNB & .PY 
+TASK:2 -- GITHUB 
+
+why github is very very important 
+system -- create a folder -- any time it might deleate 
+what if you create a folder in internet -- is it delate 
+
+every organization -- every emplyee build project -- maanger 
+
+manager will create folder for project -- repository 
+
+folder is called repository short form of repositore is called repo 
+
+everyday what ever we work or i will explain in the class please paste in github repo
+so that no body delate -- lifetime 
+
+1:30min -- everyday bring your laptop 
+			bring you books, pen, diary 
+			concept which i deliver your ( help you for lifetime)
+			modern ai job
+			freelancing 
+			own parttiem job 
+			
+generative ai -- ai generate task , code, 
+		user copy the code & paste in vs code -- then app will create 
+
+agentic ai -- smolagent (huggingface) generate code ,, create app automatically 
+
+task-1 : please install vs code -- test the .ipynb file & .py file 
+
+who ever joined 1st time ^& 2nd time please stay i will coverd demo session one more time 
+
+===== 4th
+
+who ever joined 1st or 2nd time please scan the qr code 
+qr code when you scan you whats app community group-- we post recording & corse content or course syllabus 
+
+I will take backup classes 4 clases -- i will repeat again no problem at all. 
+
+We are learning python along with ml, 
+python with ai 
+python with gen ai 
+python with agentic ai
+---
+agenda -->
+--
+1- python introduction 
+2- anaconda software installation 
+3- slides 
+4- any question i will take your question 
+5- backup classes 
+6- if you have any question please ask me do not ask to your friends 
+everyday try to store what ever teaching i am deliver to you everything shold notepad or document 
+
+
+yesterday i told you how to install vs code 
+if you alrady done thats great , if you not done please watch installation video & If any 
+question please ask me or i will introduce to mentor 
+
+-- who ever enrolled please join the google classrrom 
+-- java, c, c++, python 
+fresher confused ( no need to learn all programming skill) not possible 
+
+1- pyhton is object oriented programming language 
+		oops 		all real time problem solve by object 
+
+ a = 5
+
+oops concept 
+	class 
+	method 
+	object 
+	encapsulation 
+	inheritence 
+	polymorphism 
+	abstraction 
+	
+2- Guido van Rosam (father of python) 
+
+3- python name comes from 
+		he comedy show ( complete monty python flying circus) 
+	python programming name comes from fun show which brodcasted in bbc channel 
+	
+4- python developed in netherland 
+
+5- Java release on 1995 & python relason 1989 
+		python is old programming langauge but no body used at that time 
+		
+6- python boomin since 10yr onwards 
+		as we have ml, ai, gen ai, agenti ai stareted 
+		next 10-20yr python will be top 
+
+7- everyboday less code (meaning full code) 
+		python is easy compare to java 
+		java, c, c++ -- if you write 10 lince code python you need to write only 2 line code
+		using help of library 
+		what is libray i will tell you later?
+		
+8- python is dynamic programming language not static (constant) 
+
+9- PVM (python virtual machine) 
+
+10- platform independtn --  you just write only 1 code and it runs everywhere 
+		no need to change the code || python code runs in window, linux, mac 
+ 
+11- python is open source ( free application ) 
+			you can pay ( learnig stage python open source)  | open source library 
+			
+12- python cannot be used in android application  
+
+13- Anaconda python(Bigdata,datascience,ml,ai genai, agentic )
+
+14- google -- anaconda python -- signin -- give your gmail account 
+		download your file -- install - next - next -- just me -- finish the installation 
+		
+15 - 	start anaconda folder -- expand the folder 	-- jupyter notebook
+
+16- do not close the kernel -- minimise 
+	
+CODE -- we will coding 
+MARKDOWN - heading
+RAW -- document or notes 
+	
+task-1 : vs code installation & test it 
+task-2 : anaconda installation & test it 
+
+
+today i will share installation video for both sit down & install 
+we are start the journey 
+
+27k without recording 
+32k with recording 
+
+if you are non technical -- take recording 
+
+practicle makes you expert 
+theory makes you week 
+
+be practicle guy -- organizat 9hr we do practicle 
+college == thorery 
+
+==== 5th
+
+1- did you install all the software 
+		vs code 
+		anaconda -- jupyter 
+		googel colab 
+		
+2- if anyone has any question please let me know after the class then i will guide you..
+
+3- did you download course content & Please take printout 
+		from the course content some importnt point you need to mention in the resume 
+		please keep that content & do not share to anyone
+		
+4- Who ever joined 1st time i will share the backup 4day recording please watch it 
+		
+5-  what is data 
+			excel sheet 
+			image 
+			text 
+			video 
+			xml 
+			pdf
+			json 
+			files 
+			
+these data are store in continer which is database 
+	typs of data 
+			structure data --- excel file 
+			unstrucutre data -- text, image, video , xml, pdf 
+			semistructure data -- pdf -- (text, exce, image)
+			
+generative ai divide into 2 part 
+	1- llm (large language model)
+	        in chatgpt user enter text gpt generate the text only 
+
+	2- multimodel 
+				text -- image 
+				text -- audio 
+				text - video 
+				
+gpt -- openai 
+			llm model works 
+			multimodel works 
+			
+gemini -- llm model workds 
+				multimodel also works 
+	
+what are resources to generate data 
+
+	
+llm model means -- evertime it will geneate only text only 
+multimodel -- alwasy generate image, video, audio 
+	other name of multimodel is called STATE OF THE ART MODEL (SOTA MODEL) 
+	cloud these multimode we called as COGNITIVE AI 
+	
+GEN AI CLASSIFI INTO 2 PART 
+	1- LLM MODEL 
+	2- MULTIMODEL == SOTA MODEL == COGNITIVE AI 
+	
+1- PYTHON VARIABLE also called as object 
+variable == object 
+syntax --> (variable = value)
+
+variable == object 
+value == datatype
+		
+v = 5
+v is variable 
+v store value called 5 
+
+----
+Rules & Regulation for python variable -->
+----
+1- variable doesnot start with number but it end with number 
+2- variables are case sensitive 
+3- special character is not allowed in variable declaration 
+4- only _ is allowed 
+5- reserve word also called as keyword 
+False',
+ 'None',
+ 'True',
+ 'and',
+ 'as',
+ 'assert',
+ 'async',
+ 'await',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ 'except',
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield']
+ 
+ if any one complete all the keyword then python is completed 
+ i will explain all the keywords 
+ 
+python variable -- name assinge to value 
+var = value 
+var = datatype 
+
+
+----
+ERROR TYPES -->
+---
+syntax error  -- error which happens from user side 
+name error -- user declare incorect name 
+
+when to use print() 
+		if user want to print all the statement then use print() 
+		
+always remmeber function ends with ()
+
+if you see any code in future python function ends with() 
+
+variable vs function 
+variable -- () are not required 
+function -- () are must required 
+
+1- python variable 
+
+what are the steps to download notes from google classroom 
+
+1- google 
+2- download winrar or winzip 
+3- install winrar or winzip 
+4- 2 way you can go to google classroom 
+		playstore -- mobile -- google classroom 
+		also regular baiss you will receive gmail from me directly 
+5- click the notes -- it shows empty no problem 
+6- open with -- opne in new tab
+7- click on download - click on zip file -- right click -- extract 
+8- .pdf or .doc file -- you can oopen when you double clien 
+9- .ipynb code file how 
+10- after complete your work please post your work in the classroom so that i know aout 
+
+==== 6th
+
+variable = value 
+
+variable part we are complete 
+value also called as datatype 
+---
+python datatypes -->
+--
+integer = int ( number)
+float = flo (decimal ) 
+string = str  (text) 
+booleaen = bool (True | False ) 
+complex = complex  
+===
+
+car() -- 0 argument or 0 parameter 
+cars(bmw, audi, volk) -- cars function with 3 argument or 3 parameter 
+asian_cars( tata, totota, martuti, mahindra) -- function 4 argument 
+
+car() function 
+cars() 
+asian_cars 
+
+function without arg 
+function with arg 
+
+chatgpt model trained with 415million parameter 
+parameter very large that is why we called large language model 
+
+integer - value without decimal 
+float - value with decimal 
+id()-- address 
+
+1- ide (Integreate development environment) 
+			using IDE - one can write code, run the code, debug the code
+	vs code ide
+	jupyter ide 
+	spyder ide 
+	pychar ide 
+	
+3- python interpreter -- execute the code line by line 
+	python compiler -- execute whole code at once 
+			python is both ( inter also compiler) 
+			
+Complex datatype -- no other programming language has this datatype 
+Only pyhthon program has complex datatype  	
+
+	format of complex == a + bj 
+	a - Real part 
+	b - Imaginary part 
+	j - Sqrt of -1 
+	    Where we use this complex -- math application sqrt, statistica caluc
+	    Complex datatype 
+	
+== 1st -- maintain folder properly 
+== 2nd -- please make plan for 6month 
+== 3rd -- fresher ( 5-6hr on learning) 
+== 4th -- please install software properly 
+== 5th -- try apply jobs 
+
+
+== how to download classnotes from google classroom
+----
+1- google 
+2- download winrar or winzip 
+3- install winrar or winzip 
+4- 2 way you can go to google classroom 
+		playstore -- mobile -- google classroom 
+		also regular baiss you will receive gmail from me directly 
+5- click the notes -- it shows empty no problem 
+6- open with -- opne in new tab
+7- click on download - click on zip file -- right click -- extract 
+8- .pdf or .doc file -- you can oopen when you double clien 
+9- .ipynb code file how 
+10- after complete your work please post your work in the classroom so that i know aout 
+
+=== 7th 
+Agenda -->
+--
+string 
+how to declare a string 
+string indexing 
+string slicing 
+
+if you are typeing with me 
+if you are slow type then 
+
+text -- youtube comments , 
+insta 
+non technical we called as text 
+technicallly we called string 
+
+declare a string using ' ' 
+" " 
+'''    '''
+
+if you have task which handle only 1line or single line -- user must use ' ' or " "
+if you have task paragraph , document , article -- '''   '''  
+
+i = 5 
+f = 5.5
+s = 'nit'
+b =- True 
+c = 1 + 2j 
+
+python datatype we are completed 
+
+python index begines with 0 
+----
+python index 2 part-->
+----
+forward index ( left to right) 
+backward index ( right to left) 
+
+forward index start from 0 
+backward index start from -1 
+ 
+then we will intoduce slicing 
+
+slicing define with : 
+
+indexing -- forward index, backward indexing
+slicing - : 
+	forward slicing
+	backward slining 
+	step slicing 
+
+
+					
+					
+while you learning fullstack gen ai & agentic ai 
+1st -- common sense 
+2nd -- able to understant thing 
+3rd -- +Ve thinking 
+
+-- now a day entire code written by agentic ai ide 
+
+1hr for your
+agentic ai -- user just write the prompt 
+agent will write code, check code, if error comes, it fix the error, generate front end application 
+	automatically 
+	
+	that s why compnies re firing developer 
+
+if user write code then error will come --- testing engineer 
+what if agent write the code claude code -- no erro -- no testing -- direct deployme
+
+agntic ai is ver vyer vyer super duper easy 
+only agent 
+
+1- si[:] -- print all value 
+
+2- si[1 : 4] --print value from 1st index to 4th index 
+					left index -- 1
+					right index -- 4 ( n-1) 
+					
+		[L : R] -- right index will be apply n-1 not left indexi 
+		
+3- si [ 2:] -- print the index value from 2nd index till end 
+
+4- si[]
+
+==== 10th 
+
+Back up class at last 
+So far we have coverd demo 
+We have just introduced python programming language for gen ai, ml, ai, agentic ai 
+---
+Agenda -->
+---
+1- string indexing & slicing 
+2- type casting 
+3- print() 
+4- new studen little back up classes
+5- offlien & online team if you have any issue on installation please ask 
+====
+
+1- si[:] -- print all value 
+2- si[1 : 4] --print value from 1st index to 4th index 
+					left index -- 1
+					right index -- 4 ( n-1) 
+					
+		[L : R] -- right index will be apply n-1 not left indexi 
+
+3- si [ 2:] -- print the index value from 2nd index till end 
+
+4- si[0:7:2] -- print the 2nd index value from 0 to 7 
+
+5- si[-5:-1] -- backward slicing 
+
+6- si [::2 ] -- ever 2nd step slice from starting to ending 
+
+what ever I teach you today 
+
+
+indexing  & slicing in string concept 
+indexing & slcing in datastrcuture 
+indexing & slicing in pandas 
+indexing & slicing in machine learning 
+--
+python type casting -->
+--
+
+int, float, bool, string, complex 
+fun argument vs fun without argument 
+argument == parameter 
+
+python type casting -->
+---
+all other datatype to == Integer 
+float - int | bool-int | string -int | comp -int | 
+complex to int not possible 
+from number string to int -- possible where as text string to int -- not possible 
+
+
+#1- In type casting while typecast from all other datatype to int possible except complex & text string 
+#2- still thinking 
+#3- 
+
+mcp 
+transformer 
+
+demo link will change today or tomorrow 
+enrolled and join google classroom 
+feel free to talk to me 
+if you have any quation after directly come to me. show your error 
+offline & online both 
+
+1- other datatype to int  except complex & text string 
+2- other datatype to float except complex & text string 
+3- other datatype to bool every type conversion is possible 
+4- other dataype to complex every type casting possibel except only 1 string is valid 
+5- other dataype to string every type casting is possible 
+
+
+
+
+if your practise on regular basis then only this gen ai & agentic, with datascien, possible
+	1- consistency 
+	2- regular 2hr practise with 1:30 hr 
+	3- rest of hard topic i will tel you later 
+	4- when i teach you datastrucutre , numpy , pandas please open the laptop start work offline, online team 
+	5- after the class go the lab ( finish and go) 
+	6- every one knows how you remember 
+	7- day by day if you study 4yr college -- 4month 
+	8- 6month course -- deliver content of 6yr working iit professional 
+	9- career, 30% , fail, 6month -- 
+	
+
+my training 18yr brain to your bring 
+your practise + dream + goal 
+
+then only you can win the world 
+money talks in the world 
+busines swont
+
+learn this skill 
+
+project + resume + apply job 
+intervew -=- fail rounds
+
+10 interview 
+11th inter -- 1st round cleared 
+
+6month 
+2nd rond -- 
+
+secret to get job -->
+---  2026 
+1000 jobs 
+
+900 jobs are fake ( hr will call you 
+do not pay to some who give job without 
+facebook 
+20k -- offer letter without interview 
+tcs -- 
+
+
+100 job left 
+
+50job 
+50job -- 10job -- accespt you resume 
+
+5job -- 1st round no response on 2nd round 
+5- 3job -- 2nround no responce 
+2 -- one would be offer  
+1000 : 1 -- success ( which hardwork pays you) 
+
+
+=======
+Completed topics -->
+=======
+1- demo session we are completed 
+2- python introduction 
+3- python variable we are completed 
+4- introduce to print(), type(), id(), len(), fun(),function without argument, function with argument 
+5- error part -- name error, type error, syntax error 
+6- python datatype -- int, float, bool , str, complex 
+7- forward index, backward index & index error or indexing error
+8- forward slicing, backward slicing, step slicing, advanced slicing 
+9-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====
+Youtube playlist : 
+https://www.youtube.com/playlist?list=PLVlQHNRLflP8Pt3wVlRWRaXZXi79cIwSq
+
+==== ADMIN
+Online Admin Number's WhatsApp message 
+
+Vani Mam Admin Only @7997993923 
+
+
+For Offline Students 
+Admin Name: Bheem Sir 
+
+=== Paid Enrollment 
+without recording == 27,000 Inr 
+with recording == 32,000 Inr 
+
+============== Online Mentor Detail 
+Full Stack Data Science & AI Lab - 1
+Meeting Link: https://nareshit.zoom.us/j/86433658207
+Password: 112233
+====== 
+Full Stack Data Science & AI Lab - 2
+Meeting Link: https://nareshit.zoom.us/j/82068816627
+Password: 112233
+
+=====JOIN WHATSAPP COMMUNITY == 
+https://chat.whatsapp.com/EbOKekO3dScDVzfVW1dn8v
+
+
+
+===  SOFTWARE INSTALLATION:
+👉 Anconda installation -- https://www.youtube.com/watch?v=PhIAQ8rE2xc
+
+📁 *VS CODE INSTALLATION VIDEO LEARNERS CAN FOUND IN IN GOOGLE DRIVE * 
+https://drive.google.com/drive/u/0/folders/1SSMdhATLDBxtuk0zRIt8mWfVZzGJ_LAm
+
+=== GOOGLE DRIVE:
+https://drive.google.com/drive/u/0/folders/1SSMdhATLDBxtuk0zRIt8mWfVZzGJ_LAm
+
+
+👉🏻 Backup Videos: 
+Day-1: https://youtu.be/Konu3wWtAgI
+Day-2: https://youtu.be/mKse3Z5XxKo
+Day-3: https://youtu.be/tZ1IiqwwE-c
+Day-4: https://youtu.be/8YWgX1yilqk
+Day-5: https://youtu.be/QBHcaL3nt8s
+Day-6: https://youtu.be/hzo65UL2INE
+Day-7: https://youtu.be/LF0SRwRg2l8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=============================
+https://pages.razorpay.com/Naresh-IT-Hyd
+=============================
+Manual Bank Details 
+Bank Details :
+Name: Naresh I Technologies
+A/C No. 50200022639833     
+Bank: HDFC
+A/C Type: Current Account
+IFSC Code: HDFC0001627
+MICR Code: 500240035
+Branch Code: 001627
+Branch:  Ameerpet
+==========================
+
+
+
+
